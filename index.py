@@ -1,4 +1,4 @@
-#!/usr/bin/env puthon
+#!/usr/bin/env python3
 
 #Turn on debug mode
 
